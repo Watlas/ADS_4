@@ -1,0 +1,57 @@
+java + angular + rodando na web -> Projeto Final
+
+Fev, Marco, Abril, Maio, Junho, ½ Julho 
+
+OK, OK, ½ OK ---> Fabrica SW 
+
+ 
+
+Do primeiro dia 
+
+ 
+
+Processo de Desenvolvimento de SW -> Diz respeito a como aquela empresa, recebe uma necessidade do cliente, passa por um processo produtivo e é entregue como um produto ao cliente solicitou. 
+
+ 
+
+Projeto ---> O que deve ser feito? Documentação, diagramas, manuais e etc. 
+
+Construção -> Desenvolvimento do Projeto. 
+
+TAP 
+
+EAP 
+
+ 
+
+Escopo e o que é não-escopo  
+
+ 
+
+Para definir cenários, vc deve utiliz
+Para definir cenários, vc deve utilizar alguma estratégia de levantamento e análise de requisitos. 
+
+ 
+
+Prototipagem -> condição de validar com o seu cliente, se é o que ele realmente quer. 
+
+ 
+
+Cenarios ( Users Histories) 
+
+Diagrama de caso de uso para cada cenário. 
+
+Diagrama de Classe 
+
+ 
+
+Codificar->testar->homologar->testar->Produção 
+
+Validação de toda a entrega. Validação de toda a documentação ---> Fatura --> Pagamento 
+
+ 
+
+
+Escopo e o que é não-escopo
+
+
