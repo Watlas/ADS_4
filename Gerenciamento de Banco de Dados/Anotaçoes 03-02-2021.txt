@@ -1,0 +1,7 @@
+Orientado ao dominio = Cada classe tem somente um metodo
+
+hadoop banco de dados = administração de big data
+
+dbeaver = ferramenta de administração de banco de dados.
+
+bits fazem diferença no codigo.
