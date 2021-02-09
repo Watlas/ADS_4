@@ -1,13 +1,13 @@
-package com.example.demo;
+package com.watlas.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
-public class DemoApplication {
+@SpringBootApplication //faz a execucao do projeto
+public class BackendApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(DemoApplication.class, args);
+        SpringApplication.run(BackendApplication.class, args);
     }
 
 }
