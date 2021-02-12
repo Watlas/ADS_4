@@ -1,0 +1,11 @@
+computação -> que computa algo, calcula.
+      ___________________________________________________________
+      |                                                         |
+      |-->  Sequencial - 1 nucleo do CPU                        |
+      |                                                         |
+      |-->  Paralela - Todos os nucleos de uma CPU ou GPU       |
+      |                                                         |
+      |-->  Distruibuida - Em varios CPU em varias maquinas.    |
+      |_________________________________________________________|
+
+

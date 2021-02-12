@@ -21,4 +21,10 @@ public class ProdutoRest {
     public void post(@RequestBody Produto produto){
         produtoDao.save(produto);
     }
+
+    @PutMapping
+    public void put(@RequestBody Produto produto){
+        produtoDao.findById(produto.getId());
+        produtoDao.save(produto);
+    }
 }
