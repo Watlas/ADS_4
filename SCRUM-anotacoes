@@ -1,0 +1,156 @@
+gestão de projetos
+
+tradicional waterfall - cascata
+
+Requisitos
+    Design
+        Implementação
+            verificação (testes)
+                Manutenção 
+
+Só avança quando termina cada passo.
+
+-resistencia a mundanças.
+
+Voce pode descobrir que estava errado depois de meses.
+-----------------------------------------------------------------------------
+
+Scrum - feito no maximo em 5 meses, 1 parte a cada mes
+É feito por partes - mas é usar waterfall
+
+- é feito de acordo com o que o usuario quer, feito pro partes
+
+- projeto é controlado por funcionalidades entregues.
+
+- cliente pode ver a parte do sw funcionando na parte inicial do Projeto.
+
+Agil = Ter capacidade de responder rapidamente a mudanças. (resumo)
+
+SCRUM é um dos frameworks de gerenciamento de projetos ageis (outros xp).
+
+- requisitos mudam ao longo do tempo.
+
+- aprender professivamente com o uso do SW.
+
+Pilares do SCRUM
+
+Adaptação, transparencia e inspeção.
+
+
+-----------------
+
+Papeis
+
+product owner - representantre da area de neocios.
+ele priorisa as funcionalidades de negocio.
+ ele explica para os dev oque fazer.
+
+SCRUM MASTER.
+
+Ele garante o uso do SCRUM
+
+Time de desenvolvimento.
+
+Os DEV
+
+--------------------------
+
+backlog - funcionalidades que o product ower decide 
+
+--------------------------------
+
+SPRINT  é Planejamento da sprint, reunioes diarias, renivsao da sprint, retrospectiva da sprint.
+
+SPRINT de 30 dias = 8 horas
+
+SPRINT - dev vao tirar duvidas com o PO sobre o SW
+.
+
+time box tempo maximo para fazer a cerimonio ou sprint
+
+Sprint = Uma sprint é uma reunião de pessoas envolvidas num projeto para promover um desenvolvimento mais focalizado do projeto é feita por tudo mundo.
+como vamos fazer o backlog?
+
+Daily meetin = reunioes diarias para saber as programaçoes ontem hoje e amanha. feita em pé maximo 15 minutos.
+
+revisão da sprint 
+os DEV apresenta tudo que desenvoleu para o PO (product owner)
+
+Retrospecitiva da sprint 
+Reunião para liçoes aprendidas.
+
+
+PO - representante da area de negocios. faz o time entenda o backlog
+
+
+Release Planning é uma das boas práticas que aplicamos na Metodologia Ágil. Trata-se de uma reunião de planejamento de alto nível que abrange a iteração dos Sprints futuros
+
+escopos e prioridade: entregar parte do escopo que funcione para o cliente.
+
+prducct backlog é composto por epicos e estorias e atividade
+
+epicos = sao as funcionalidas que parte do sistma deve possuir para ser entregue ao cliente. sem muito detalhamento.
+
+estoria = detalhamento do epicos
+
+
+
+?Quem é obrigado a participar das Dailys?
+dev somente
+?
+?
+Qual o principal papel do SM?
+
+Disseminar a cultura ágil do Scrum.
+?
+
+?
+Em qual momento é definido o Sprint Backlog?
+
+Após a quebra das atividades na Planning.
+?
+
+Estória vs tarefas
+
+bicicleta é objetivo
+
+epicos = compentes da bicicleta.
+
+tarefa = é montar os estorias
+
+Estoria descricao do que ele vai fazer em nivel de NEGOCIO
+
+TAREFA: um conjunto dce epicos que o time deve desempenhar para entrar a estoria. 
+
+
+
+
+planning poker : uma atividade de mensuração do esforco e complexidade das tarefas ou estorias
+
+
+Criterio de aceita: lista de estoria que atenda o cliente
+
+
+Daily é mais focado para os DEV, tocaem ideias e se ajudarem SM nao é obigado
+
+
+A Retrospectiva da Sprint (ou Sprint Retrospective) é o evento que fecha a Sprint que é um ciclo de desenvolvimento de produto no Scrum. Esse é o momento no qual o time se dedica à inspecionar o seu trabalho, avaliando como foi a última Sprint e cria um plano de ação para a próxima
+
+quem deve participar: DEV e SM obrigatorio
+
+Refinamento: Adiar possiveis duvidas das proximas Sprint's acontece antes da planning ao final da outra sprint
+
+Review: reunniao para saber se esta tudo indo de acordo com o plano
+
+principal objetivo da Review: Verificar se a demanda agrega valor ao negocio.
+
+Maturidade da equipe 
+
+?
+
+A técnica SMART do Scrum pode ser utilizada para a identificação dos objetivos de um projeto.
+
+
+?
+
+
